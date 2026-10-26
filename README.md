@@ -1,4 +1,4 @@
-# Hi, I'm Armaan 👋
+# Hi, I'm Armaandeep👋
 
 Mechatronics Engineering student at the **University of Waterloo**, working on robotics, control systems, and autonomous systems.
 
