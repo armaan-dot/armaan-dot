@@ -4,7 +4,7 @@ Mechatronics Engineering student at the **University of Waterloo**, working on r
 
 ## What I'm working on
 
-- 🤖 **[NORA](https://github.com/armaan-dot/NORA) (Natural Language Orchestrated Robotics Agent):** an LLM-to-ROS pipeline that turns natural-language commands into robot actions. [Live demo](https://armnora.netlify.app) | [UR5e arm demo on Foxglove](https://armaandeep.netlify.app)
+- 🤖 **[NORA](https://github.com/armaan-dot/NORA) (Natural Language Orchestrated Robotics Agent):** an LLM-to-ROS pipeline that turns natural-language commands into robot actions. [Live demo](https://armnora.netlify.app) | [UR5e arm demo on Foxglove](https://www.linkedin.com/feed/update/urn:li:activity:7528170620056928256/)
 - 🛠️ Full Stack, Linux and ROS2 Developer at **Studica Robotics**
 - 💼 Previously at **Eclipse Automation**, and a Robotics Engineer at **WATonomous**
 
